@@ -3,7 +3,7 @@
     "работаБД": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "https://localhost:7188/Show/Stock",
+      "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
